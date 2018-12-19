@@ -1,0 +1,14 @@
+https://nlpub.ru/MaltParser - на русском про MaltPrser
+https://habr.com/post/342162/ , https://habr.com/post/148124/ - dependency trees
+https://habr.com/post/317564/ - SyntaxNet
+http://universaldependencies.org/ru/pos/index.html - Universal tag format
+http://corpus.leeds.ac.uk/mocky/ru-table.tab - MSD tag format
+https://radimrehurek.com/gensim/models/word2vec.html - gensim word2ve
+http://rusvectores.org/ru/models/ - RusVectores модели
+https://github.com/akutuzov/webvectors/blob/master/preprocessing/rusvectores_tutorial.ipynb RusVectores туториал
+https://nlpub.ru/Russian_Distributional_Thesaurus#.D0.92.D0.B5.D0.BA.D1.82.D0.BE.D1.80.D0.B0_.D1.81.D0.BB.D0.BE.D0.B2_.28word_embeddings.29 - еще модели
+
+https://en.wikipedia.org/wiki/Jaccard_index - индекс похожести множеств
+https://en.wikipedia.org/wiki/MinHash
+
+http://deptree.jental.name/parse?text=%D0%BA%D0%B0%D0%BA%20%D0%B8%D0%B3%D1%80%D1%83%20%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%20%D0%BF%D0%BE%D1%81%D1%82%D0%B8%D1%87%D1%8C? - мой сервис
